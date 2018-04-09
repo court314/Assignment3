@@ -1,0 +1,231 @@
+Case 2 - Professor Green 
+
+ 
+ 
+
+What data will be created or collected (type, size, format, etc.) 
+
+Interdisciplinary primary care teams, team work in hospital environments 
+
+Textual content analysis, 383 documents (teams, outcomes and practices) word, pdf, plain text and other. All are digital 
+
+Conducting 15 interviews with key informants, 60 mins each, recorded as mp3 files, transcribed in microsoft word, asked q’s about how care teams work, concerned with loss of jobs, reputations. 
+
+What licenses apply to the data 
+
+Professor Green wants copyrights in place 
+
+What facilities and equipment will be required (hard disk space, backup server, central repository, off-site repository, etc.) 
+
+What data management practices (backups, storage, access control, archiving etc.) will be used 
+
+Who will own and have access to the data 
+
+Professor Green 
+
+Which data will retain value after the life of the project 
+
+What metadata and linked open data strategies will be employed 
+
+Interviews conducted over the phone 
+
+Languages: English, German, French 
+
+How will its reuse be enabled and long-term preservation ensured after the original research is completed 
+
+How much will the storage of this data cost (cloud and/or hard drives) 
+
+ 
+ 
+
+Data Lifecycle 
+
+Creating Data 
+
+Design research 
+
+Plan data management (formats, storage etc.) 
+
+Plan consent for sharing 
+
+Locate existing data 
+
+Collect data (experiment, observe, measure, simulate) 
+
+Capture and create metadata 
+
+Processing Data 
+
+Enter data, digitize, transcribe, translate 
+
+Check, validate, clean data 
+
+Anonymize data where necessary  
+
+Interviews encrypted, anonymized, limited access 
+
+Promised confidentiality to participants, small community, numeric identifications and legend stored separately. Secure database. 
+
+Describe data 
+
+Manage and store data 
+
+Analysing Data 
+
+Interpret data 
+
+Derive data 
+
+Produce research outputs 
+
+Author publications 
+
+Prepare data for preservation 
+
+Preserving Data 
+
+Migrate data to best format 
+
+Migrate data to suitable medium 
+
+Back-up and store data 
+
+Storing data under zotero database 
+
+Quantitative data stored in excel spreadsheet 
+
+Suggest backup on secure cloud, USB not ideal to be travelling with Prof. Green 
+
+Choose 3 options for data storage 
+
+Create metadata and documentation 
+
+15 interviews, each interview is an hour long, and I am encoding them in mp3 format, 128kbps = each file would be 57.6 mbs x 15= 864 mb 
+
+Archive data 
+
+Giving Access to Data 
+
+Distribute data 
+
+Share data 
+
+With masters students and colleagues 
+
+Zotero for documents, dropbox for audio, google docs for transcriptions 
+
+Project meetings 
+
+Binder of printed excel sheets -- MUST be digitized by MASTERS students w/ knowledge of health data, determine relevance. 
+
+"The data is not shared with the public. As I mentioned, it can identify people. Share with my team are the notes I make (recordings, spreadsheets, text files) after I have gone through the data. And that is only shared with my project members. If they want more information, they have to ask me."  
+
+Control access SEE ABOVE, only Prof. Green has full access to data 
+
+Establish copyright 
+
+Promote data 
+
+Re-using Data 
+
+Follow-up research 
+
+New research 
+
+Undertake research reviews 
+
+Scrutinize findings 
+
+Teach and learn 
+
+ 
+ 
+
+Case 2 - Professor Green  
+
+you know we have a mix document files (PDF, Word and plain text). Could you tell us the average size of those documents?  
+
+"the file size ranges from a few hundred kilobytes to 25-30MB."  
+
+Could you please provide us the name or the code for each hospital that you are planning to examining   
+
+"I work with a few hospitals in Nova Scotia, one hospital in France, one in Germany and a few more in Calgary."  
+
+This case did not mentioned the size of some data collection , how we can know the data size?   
+
+"You are the expert! There are 15 interviews, each interview is an hour long, and I am encoding them in mp3 format, 128kbps."  
+
+Is the data that was collected in 2002 related to the data that was mentioned in this case?  
+
+"There might something relevant in the 2002 binder with the printed spreadsheets. I would like for you to look through it. It does not contain anything that can identify participants. "  
+
+Is there a specific size for the zotero database ? Also,how much space do you wish to have for your future research (How much do you think you'll use in 5 years from now?  
+
+"the current size of all my files right now fits in my USB drive which is 64GB and it is not full. There are about 40GB left over. I predict that the data influx will increase in the near future. My research is very important! You say five years? It will be at least ten. I predict it will triple in size."  
+
+There are 383 documents with several formats. Would you like to have them available on the original format or would you be willing to have one standard format for your database ?  
+
+"Why would I want them in one format? Do you plan on changing my original data??"  
+
+'ll make use of a specific data storage service. As a Dal faculty member you can make use of the university's space to store your data. Is Dal's repository ok, or do you have any specific preference ?  
+
+"the Dal repository is fine for now, but I would like to know what other options are available. Not too many, two or three would be good."  
+
+If you are required to share interview instruments or anonymized data to conduct your studies, how is this done? What is the language of communication?   
+
+"I am not required to share the original files or interviews. Only information that does not allow for subject identification. That data needs to be translated to the official language of each collaborator's location."  
+
+Please send us a copy of the participant consent form so that we can fully understand the terms of confidentiality and ensure that we don’t breach them. 
+
+https://web.stanford.edu/group/ncpi/unspecified/student_assess_toolkit/pdf/sampleinformedconsent.pdf 
+
+You mentioned earlier that you expect to get a new grant once your current funding runs out. It would be helpful to know who provides your research funding so we can ensure the data management plan we are developing for you adheres to that funder's policies.  
+
+my funding comes from CIHR (Canadian Institutes of Health Research). 
+
+What is the reason that you have your transcriptions stored on Google Drive? Are members of the team doing live collaboration to edit those transcriptions? 
+
+no, I simply like to have quick access to the information, even when I am not on my computer in my office. 
+
+The founding comes from CIHR. Are you working in the Dalhousie or in the Century University? because the consent form shows that you are from Century University and I would like to make sure about that . 
+
+I am working at Dalhousie. The consent form is a general template for consent forms. 
+
+We would like to confirm that the data from the data healthcare providers and internal networks is the same as the open data sets you have collected. What is the type of data and format of the open data sets that you use in your research? 
+
+yes, they are the same. The open data is in tsv files. The type of data is explained in my original briefing file. 
+
+Page Break
+ 
+
+ 
+
+Data description 
+
+Access and Sharing 
+
+Metadata(what types of metadata will support the data and what standards will be used) 
+
+Intellectual Property Rights 
+
+Ethics and Privacy (informed consent) 
+
+Format (submission, distribution, and preservation formats for the data) 
+
+Archiving and Preservation 
+
+Storage and Backup 
+
+Security (how will you ensure the data is secure) 
+
+Responsibility 
+
+Existing Data(relationship between old and new data and how this adds value) 
+
+Selection and Retention Periods 
+
+Data organization (version control, naming convetions) 
+
+Quality assurance 
+
+Budget 
