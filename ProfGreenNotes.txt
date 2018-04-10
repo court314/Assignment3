@@ -229,3 +229,58 @@ Data organization (version control, naming convetions)
 Quality assurance 
 
 Budget 
+
+
+
+WHAT I HAVE SO FAR
+Professor Green 
+
+Data description 
+
+Dr. Green is currently working on a project with two Masters students. In this project, Dr. Green and his team has two methods of data collection. The first is a textual analysis of 383 documents and the second is conducting interviews. This project will collect textual data which consists of a mix of document formats as well quantitative data stored in an excel spreadsheet. The project will produce data in the form of interviews will be conducted over the phone, requiring MP3 files and transcribed to Microsoft word. Dr. Green also uses open data sets regarding healthcare in his research.  
+
+Access and Sharing (section needs work) 
+
+Need help with what repository to use. 
+
+The data created as a result of the interviews is sensitive. Dr. Green has stated that the data for his experiment is not to be shared with anyone. The data will be deposited into (repository?) and the data will have restricted access controlled by Dr. Green.  
+
+Notes recorded by Dr. Green himself will be made accessible to his Masters students.  
+
+Metadata 
+
+Metadata for Dr. Green's project will be tagged in XML using the Data Documentation Inititiative format. This is a widely used international standard for describing data from both social and science fields. Metadata about data will be recorded to give Dr. Green context about what the file contains. 
+
+Intellectual Property Rights 
+
+Dr. Green will hold intellectual property rights for all research data and information directly created by the project.  
+
+Ethics and Privacy 
+
+To protect the privacy of informants, Dr. Green will use an informed consent form. The form states that the researcher will not identify the participant by name in any information resulting from the interview and that confidentiality will be secure. Data will be subject to the standard practice of anonymizing data to ensure privacy. During analysis and storage, only Dr. Green and approved members of his research team will be allowed to access data. The research team will then remove any direct identifiers before it is deposited into the storage repository.  
+
+Format 
+
+Data collection of the documents for textual analysis have been obtained from healthcare organizations and quantitative information regarding these documents will be recorded in a Microsoft Excel spreadsheet using DDI XML metadata documentation. Phone interviews will be recorded as MP3 file format.  
+
+To insure preservation of data, it is suggested that the document files and transcripts of interviews be converted to one file format of PDF. This will ensure that documents can be accessed in the future and will preserve the data as it is, meaning that it cannot be altered. PDF provides a high level data encryption and offers a secure way to transfer data over the internet. Dr. Green can customize the user access level, setting it so he is the only one who can access the files and add a digital signature. A digital signature confirms the authenticity of the text and protect Dr. Green's work. 
+
+Archiving and Preservation / Storage and Backup 
+
+To ensure that the data created by Dr. Green's project is accessible for future use, data will be deposited in (repository) and will be backed up on an external USB key. Dr. Green's Masters students will be tasked with migrating research data to new formats, platforms, and storage as required for the continuation of his research. A master copy of each file will be contained in the USB Key, as well a backup on the repository to ensure digital preservation.  
+
+Security 
+
+The data files from Dr. Green's research project will be managed, processed, an stored in a secure enviroment by the researcher himself. To ensure security, we will install a lockable computer system on his laptop that has a strong firewall system with software to protect from viruses/malware. The folder containing files for his project will be encrypted and password protected. Any identifying information about the informants will be anonymized. 
+
+Responsibility 
+
+Dr. Green has assigned us to be the data manager to act as steward for the data throughout the data lifecylce. At the conclusion of the current grant, we will give all data management plan documentations to the new assigned data manager. 
+
+Existing Data 
+
+There is currently a binder of printed excel spreadsheets, it is our recommendation that Dr. Green's trained Masters students go through to find any relevant data to the current research. We will then provide the students with step by step instructions of how to digitize relevant data. 
+
+Selection and Retention Periods 
+
+Dr. Green's project makes use of 3 
